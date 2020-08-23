@@ -9,8 +9,8 @@ QUICK START: SETUP:
 2. Follow Twitter: @DJONEHR (Protected).
 3. Github https://github.com/DJNETWORK/public (README.md).
 
-*DJ REGION LIST:
-*DJ Elvis: California, USA
+-DJ REGION LIST:
+-DJ Elvis: California, USA
 *DJ Vannah: Lake Swales
 *DJ Lady Chef: Sand Francisco, Los Angeles  
 *DJ Koka: Malibu, Pacific Palasides, World
