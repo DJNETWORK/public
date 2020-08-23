@@ -1,9 +1,8 @@
 Great to see you joining the Party!  
 
 QUICK START: SETUP:  
-1. Get a Free Spotify Account from one of the DJ REGION LIST below.
-2. Follow Twitter: @DJONEHR (Protected).
-3. Github https://github.com/DJNETWORK/public/edit/master/SetupDJNetwork.md
+1. Follow Twitter: @DJONEHR (Protected).
+2. Github https://github.com/DJNETWORK/public/edit/master/SetupDJNetwork.md
 
 DJ REGION LIST:\
 DJ Elvis: California, USA\
