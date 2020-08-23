@@ -11,10 +11,10 @@ QUICK START: SETUP:
 
 -DJ REGION LIST:
 -DJ Elvis: California, USA
-*DJ Vannah: Lake Swales
-*DJ Lady Chef: Sand Francisco, Los Angeles  
-*DJ Koka: Malibu, Pacific Palasides, World
-*DJ J: Seattle, Miami, World
+-DJ Vannah: Lake Swales
+-DJ Lady Chef: Sand Francisco, Los Angeles  
+-DJ Koka: Malibu, Pacific Palasides, World
+-DJ J: Seattle, Miami, World
 *DJ Kine: Kirkland, World, Oxnard
 *DJ Brondo: NFL, MLB, NBA, NCAA, Sports
 *DJ Baby: Venice Beach, Marina Del Rey
