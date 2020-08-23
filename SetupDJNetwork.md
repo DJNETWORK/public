@@ -1,7 +1,3 @@
-WELCOME TO THE DJ NETWORK
-
-Dear DJ,
-
 Great to see you joining the Party!  
 
 QUICK START: SETUP:  
