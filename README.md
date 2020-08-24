@@ -35,5 +35,5 @@ Open: Oxnard
 * This Doc:  [This Doc](https://github.com/DJNETWORK/public/blob/master/README.md)
 
 
-# Voice Conference Call Instructions: Mumble
-Copying Playlists between 2 different Spotify Accounts:
+# How to Copy Playlists between Spotify Accounts:
+
