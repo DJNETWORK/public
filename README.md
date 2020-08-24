@@ -20,6 +20,7 @@ Open: New Orleans
 Open: Palm Beach
 Open: Paris
 Open: Rio de Janeiro
+Open: Maui
 
 
 
