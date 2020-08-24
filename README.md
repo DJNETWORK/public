@@ -12,7 +12,7 @@ DJ J: Seattle, Miami, World\
 DJ Kine: Kirkland, World, Oxnard\
 DJ Vannah: Lake Swales\
 DJ Brondo: NFL, MLB, NBA, NCAA, Sports\
-DJ Baby: Venice Beach, Marina Del Rey\
+DJ Baby: Venice Beach, Marina Del Rey
 
 
 # Voice Conference Call Instructions: Mumble
