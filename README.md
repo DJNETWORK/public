@@ -1,8 +1,7 @@
 # Great to see you joining the Party!  
-
 * **QUICK START: SETUP: ** 
 * **Spotify / Twitter Account Setup**: Github https://github.com/DJNETWORK/public/edit/master/SetupDJNetwork.md
-* **Need Help? DM DJ Network-Support Engineer **: @DJONEHR (Protected). Follow This account, ONEHR is the Support Account for DJNETWORK.  Any qeustions DM @DJONEHR Twitter.
+* **Need Help? DM DJ Network-Support Engineer**: @DJONEHR (Protected). Follow This account, ONEHR is the Support Account for DJNETWORK.  Any qeustions DM @DJONEHR Twitter.
 
 DJ REGION LIST:\
 DJ Elvis: California, USA\
