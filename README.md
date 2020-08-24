@@ -9,11 +9,19 @@ DJNetwork Provides each of our DJ's with login to at least one Twitter Profile: 
 # DJ Region List:
 DJ Elvis: California, USA\
 DJ Koka: Malibu, Pacific Palasides, World\
-DJ J: Seattle, Miami, World\
+DJ J: Seattle, Miami, Rome\
 DJ Kine: Kirkland, World, Oxnard\
 DJ Vannah: Lake Swales\
 DJ Brondo: NFL, MLB, NBA, NCAA, Sports\
 DJ Baby: Venice Beach, Marina Del Rey
+
+Open: Rome
+Open: New Orleans
+Open: Palm Beach
+Open: Paris
+Open: Rio de Janeiro
+
+
 
 
 # Voice Conference Call Instructions: Mumble
