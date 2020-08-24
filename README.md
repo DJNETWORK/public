@@ -1,6 +1,6 @@
 # Great to see you joining the Party!  
 * **QUICK START: SETUP: ** 
-* **Follow Support Engineer**: [@DJ ONE HR](https://twitter.com/djonehr) (Protected) Twitter: Follow This account, @ONEHR is the Support Account for DJNETWORK.  Any qeustions, DM @DJONEHR Twitter.
+* **Follow Support Engineer**: [Twitter: DJ OneHR](https://twitter.com/djonehr) (Protected) Twitter: Follow This account, [@ONEHR](https://twitter.com/djonehr) is the Support Account for DJNETWORK.  Any qeustions, DM [@ONEHR](https://twitter.com/djonehr) Twitter.
 
 # Twitter Profile:
 DJNetwork Provides each of our DJ's with login to at least one Twitter Profile: for example, @DJ_Brondo. (email/password)
