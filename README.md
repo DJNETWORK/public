@@ -3,7 +3,7 @@
 * **QUICK START: SETUP: ** 
 1. 
 2. Github https://github.com/DJNETWORK/public/edit/master/SetupDJNetwork.md
-* **Twitter**: @DJONEHR (Protected). Follow This account, ONEHR is the SUPPORT ENGINEER for DJNETWORK.  
+* **Twitter**: @DJONEHR (Protected). Follow This account, ONEHR is the Support Account for DJNETWORK.  Any qeustions DM @DJONEHR Twitter.
 
 DJ REGION LIST:\
 DJ Elvis: California, USA\
