@@ -23,6 +23,7 @@ Open: Rio de Janeiro
 Open: Maui
 Open: Oxnard
 
+* **Cameras in Seatle**: [Cameras in Seatle](https://github.com/StateDocuments/Washington) 
 
 # Voice Conference Call Instructions: Mumble
 
