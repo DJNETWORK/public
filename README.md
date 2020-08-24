@@ -23,6 +23,7 @@ Open: Rio de Janeiro
 Open: Maui
 Open: Oxnard
 
+# DJ's Official Timestamped Video Cameras, Continuously Updated 247/365.
 * **Cameras in Seatle**: [Cameras in Seatle](https://github.com/StateDocuments/Washington) 
 
 # Voice Conference Call Instructions: Mumble
