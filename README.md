@@ -3,7 +3,9 @@
 * **Spotify / Twitter Account Setup**: Github https://github.com/DJNETWORK/public/edit/master/SetupDJNetwork.md
 * **Need Help? Support Engineer**: @DJONEHR (Protected). Follow This account, ONEHR is the Support Account for DJNETWORK.  Any qeustions DM @DJONEHR Twitter.
 
-DJ REGION LIST:\
+
+# DJ REGION LIST:
+
 DJ Elvis: California, USA\
 DJ Koka: Malibu, Pacific Palasides, World\
 DJ J: Seattle, Miami, World\
