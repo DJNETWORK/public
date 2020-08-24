@@ -1,8 +1,10 @@
 # Great to see you joining the Party!  
 * **QUICK START: SETUP: ** 
-* **Spotify / Twitter Account Setup**: Github https://github.com/DJNETWORK/public/edit/master/SetupDJNetwork.md
-* **Need Help? Support Engineer**: @DJONEHR (Protected). Follow This account, ONEHR is the Support Account for DJNETWORK.  Any qeustions DM @DJONEHR Twitter.
+* **Follow Support Engineer**: @DJONEHR (Protected) Twitter: Follow This account, @ONEHR is the Support Account for DJNETWORK.  Any qeustions, DM @DJONEHR Twitter.
 
+# Twitter Profile:
+DJNetwork Provides each of our DJ's with login to at least one Twitter Profile: for example, @DJ_Brondo. (email/password)
+* **Login**: Login into your DJ Profile, customize the Profile as you like.
 
 # DJ Region List:
 DJ Elvis: California, USA\
@@ -13,9 +15,6 @@ DJ Vannah: Lake Swales\
 DJ Brondo: NFL, MLB, NBA, NCAA, Sports\
 DJ Baby: Venice Beach, Marina Del Rey
 
-# Twitter Profile:
-DJNetwork Provides each of our DJ's with login to at least one Twitter Profile: for example, @DJ_Brondo. (email/password)
-* **Login**: Login into your DJ Profile, customize the Profile as you like.
 
 # Voice Conference Call Instructions: Mumble
 
