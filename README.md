@@ -1,8 +1,21 @@
+# Great to see you joining the Party!  
+
+* **QUICK START: SETUP: ** 
+1. 
+2. Github https://github.com/DJNETWORK/public/edit/master/SetupDJNetwork.md
+* **Twitter**: @DJONEHR (Protected). Follow This account, ONEHR is the SUPPORT ENGINEER for DJNETWORK.  
+
+DJ REGION LIST:\
+DJ Elvis: California, USA\
+DJ Koka: Malibu, Pacific Palasides, World\
+DJ J: Seattle, Miami, World\
+DJ Kine: Kirkland, World, Oxnard\
+DJ Vannah: Lake Swales\
+DJ Brondo: NFL, MLB, NBA, NCAA, Sports\
+DJ Baby: Venice Beach, Marina Del Rey\
 
 
-
-
-# Voice Conference Call Instructions: Mumble
+Voice Conference Call Instructions: Mumble
 
 * **Wiki**: [Mumble-Wiki](https://en.wikipedia.org/wiki/Mumble_(software))
 * **PC Client**: [PC-Muble-Client](https://www.mumble.com/mumble-download.php)   
