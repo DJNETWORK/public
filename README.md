@@ -6,4 +6,4 @@
 * **Android Client**: [Mumla-Android-Mumble-Client](https://play.google.com/store/apps/details?id=se.lublin.mumla)
 * **Android Client on FDroid **: [FDROID-Client](https://f-droid.org/en/packages/se.lublin.mumla/)
 
-* This Doc:  [This Doc](https://github.com/StateDocuments/Voice/blob/master/README.md)
+* This Doc:  [This Doc](https://github.com/DJNETWORK/public/blob/master/README.md)
