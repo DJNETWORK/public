@@ -3,8 +3,7 @@
 * **Follow Support Engineer**: [Twitter: DJ OneHR](https://twitter.com/djonehr) (Protected) Twitter: Follow This account, [@ONEHR](https://twitter.com/djonehr) is the Support Account for DJNETWORK.  Any qeustions, DM [@ONEHR](https://twitter.com/djonehr) Twitter.
 
 # Twitter Profile:
-DJNetwork Provides each of our DJ's with login to at least one Twitter Profile: for example, @DJ_Brondo. (email/password)
-* **Login**: Login into your DJ Profile, customize the Profile as you like.
+DJNetwork Provides Group Technical Support for all of our DJ's, on Twtitter, and Instagram.  We have everything you need to expand your presence as an Internet DJ.   We have Daily 1 HR. Chat Line, where we can share Ideas, and help each other with Technical Issues.
 
 # DJ Region List:
 DJ Elvis: California, USA\
